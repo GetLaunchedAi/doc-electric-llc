@@ -6,9 +6,9 @@
   "address": {
     "lineOne": "First Address Line",
     "lineTwo": "Second Address Line, If Needed",
-    "city": "Battle Creek",
+    "city": "Kalamazoo",
     "county": "Mi",
-    "postcode": "80206",
+    "postcode": "49009",
     "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
   },
   "domain": ""
