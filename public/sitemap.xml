@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://midocelectric.com/</loc>
+    <lastmod>2026-03-11T16:39:15.256Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/about\index/</loc>
+    <lastmod>2026-03-11T16:39:15.257Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/admin\index/</loc>
+    <lastmod>2026-03-11T16:39:15.247Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/blog\another-test-post\index/</loc>
+    <lastmod>2026-03-11T16:39:15.469Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/blog\blog-template\index/</loc>
+    <lastmod>2026-03-11T16:39:15.470Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/contact\index/</loc>
+    <lastmod>2026-03-11T16:39:15.258Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/electric-car-chargers\index/</loc>
+    <lastmod>2026-03-11T16:39:15.260Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/generators\index/</loc>
+    <lastmod>2026-03-11T16:39:15.265Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/new-construction-wiring\index/</loc>
+    <lastmod>2026-03-11T16:39:15.266Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/residential-service-and-repair\index/</loc>
+    <lastmod>2026-03-11T16:39:15.267Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/reviews\index/</loc>
+    <lastmod>2026-03-11T16:39:15.259Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/services\index/</loc>
+    <lastmod>2026-03-11T16:39:15.259Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/solar-and-panel-upgrades\index/</loc>
+    <lastmod>2026-03-11T16:39:15.267Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://midocelectric.com/specialty-lighting\index/</loc>
+    <lastmod>2026-03-11T16:39:15.269Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
